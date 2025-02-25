@@ -80,6 +80,15 @@ nav > a:hover{
     border-radius: 9px;
     transition-duration: .5s;
 }
+
+@media screen and (max-width: 760px){
+    .container{
+        width: 100%;
+    }
+} 
+    
+
+
 main{
     min-width: 300px;
     max-width: 1000px;
