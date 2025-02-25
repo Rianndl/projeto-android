@@ -81,15 +81,10 @@ nav > a:hover{
     transition-duration: .5s;
 }
 
-.container{
-    display: flex;
-    justify-content: space-around;
-}
 
 @media screen and (max-width: 768px){
     .container{
         width: 100%;
-        flex-direction: column;
     }
 } 
     
