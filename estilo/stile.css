@@ -81,9 +81,9 @@ nav > a:hover{
     transition-duration: .5s;
 }
 
-@media screen and (max-width: 760px){
+@media screen and (max-width: 868px){
     .container{
-        width: 100%;
+        width: 90%;
     }
 } 
     
